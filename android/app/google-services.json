@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "186771296910",
+    "project_id": "crm-project-d3a8f",
+    "storage_bucket": "crm-project-d3a8f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:186771296910:android:b57ef0bd544f1da6d12fdf",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_5"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8QxjJlvRz2yONunJYg_2pLdqCd05EKXE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
